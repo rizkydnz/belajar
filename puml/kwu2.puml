@@ -1,0 +1,10 @@
+@startuml
+start
+:Pesanan Diterima;
+:Persiapan Bahan Baku;
+:Produksi Risoles;
+:Pengemasan Produk;
+:Distribusi Produk;
+:Feedback dan Evaluasi;
+stop
+@enduml
